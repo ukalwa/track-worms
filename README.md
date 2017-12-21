@@ -31,10 +31,6 @@ License
 This code is GNU GENERAL PUBLIC LICENSED.
 
 
-Acknowledgements
-================
-meanthresh.m is written by Jan Motl and can be found at [meanthresh] 
-
 Contributing
 ============
 
