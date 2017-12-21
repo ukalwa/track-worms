@@ -1,4 +1,4 @@
-**Software to track nematodes *(H. Glycines)* and analyze behavior at different drug concentrations**
+# Software to track nematodes *(H. Glycines)* and analyze behavior at different drug concentrations
 
 This software is written for our manuscript in *APL Bioengineering*:
 *"Movement and Motion of Soybean Cyst Nematode, Heterodera glycines,
